@@ -46,6 +46,9 @@ http://localhost:8080/user/add
 
 3 構成図
 
+![スクリーンショット (28)](https://github.com/RyoKawamuki222/java-School-Intermediate/assets/171565634/aa8d096c-abb1-47a9-ae82-ea17ef6fc3bd)
+
+
 ユーザー新規登録の流れ
 
 ・UserRequest:ユーザー新規登録画面の入力処理
